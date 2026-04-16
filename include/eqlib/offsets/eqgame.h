@@ -18,11 +18,11 @@
 // eqgame.exe offsets
 //
 
-#define __ClientDate                                               20260310u
-#define __ExpectedVersionDate                                     "Mar 10 2026"
-#define __ExpectedVersionTime                                     "07:56:11"
-#define __ActualVersionDate_x                                      0x140989148
-#define __ActualVersionTime_x                                      0x140989138
+#define __ClientDate                                               20260414u
+#define __ExpectedVersionDate                                     "Apr 14 2026"
+#define __ExpectedVersionTime                                     "10:45:28"
+#define __ActualVersionDate_x                                      0x14098B198
+#define __ActualVersionTime_x                                      0x14098B188
 #define __ActualVersionBuild_x                                     0x14091E300
 
 // Memory Protection
